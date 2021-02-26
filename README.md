@@ -1,9 +1,9 @@
 # army-project
+
 ## [Army Project] 
-### Problem Statement 
-Developing map app for Army Personals # army-project
-## [Army Project] 
+
 ### _Problem Statement_ 
+
 >Developing map app for Army Personals that will have following functionalities 
 1. Person using can raise alert about danger in the area and can also set its radius  
 2. Person/Camera installed  can also report Road blockage and damage and it will get reflected in map 
